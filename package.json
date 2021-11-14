@@ -7,7 +7,7 @@
     "build": "webpack",
     "build:dev": "npm run build -- --watch --mode=development",
     "start": "npm run build:dev",
-    "test": "nodemon node_modules/mocha/bin/mocha",
+    "test": "node node_modules/mocha/bin/mocha",
     "start-server": "nodemon server",
     "start:dev": "npm run build:dev & npm run start-server",
     "seed": "node script/seed.js"
