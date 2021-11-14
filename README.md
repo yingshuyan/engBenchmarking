@@ -11,12 +11,6 @@ This an app currently runs locally and returns percentile of candidate's score b
 4. run `npm run start:dev` to start server and build client side files using webpack.
 5. app is running on http://localhost:8080/
 
-## Test Cases
-
-1. =
-2. if there is no user's input, it returns "Deliciousgenix，Deliciouszilla，Fodder Table，Dished Grill，Sizzle Yummy“
-
-
 
 ## Back End 
 
